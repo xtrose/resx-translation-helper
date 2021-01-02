@@ -1,0 +1,64 @@
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\App.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.xr.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.exe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.pdb
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\resources.pri
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.build.appxrecipe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.xaml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\Create ResX File.WindowsPhone.exe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\Create ResX File.WindowsPhone.pdb
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\priconfig.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\layout.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\resources.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\pri.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\App.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.xr.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.exe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.pdb
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\resources.pri
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\AppxManifest.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.build.appxrecipe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.g.i.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.g.i.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.xaml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.xaml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\App.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\Create ResX File.WindowsPhone.exe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\Create ResX File.WindowsPhone.pdb
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\priconfig.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\layout.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\resources.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\pri.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\qualifiers.txt
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\ProjectArchitectures.txt

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
+  <Identity Name="6490xtrose.resxtranslationhelper" Publisher="CN=A59B8BBA-C7F1-4116-AECF-50F8BF4CB0E5" Version="1.1.0.0" />
+  <Properties>
+    <DisplayName>resx translation helper</DisplayName>
+    <PublisherDisplayName>xtrose</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.3.0</OSMinVersion>
+    <OSMaxVersionTested>6.3.0</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Create_ResX_File.Windows.App">
+      <m2:VisualElements DisplayName="resx translation helper" Square150x150Logo="Assets\Logo.png" Square30x30Logo="Assets\SmallLogo.png" Description="resx transletion helper" ForegroundText="light" BackgroundColor="#3161c7">
+        <m2:DefaultTile ShortName="resx helper">
+        </m2:DefaultTile>
+        <m2:SplashScreen Image="Assets\SplashScreen.png" />
+      </m2:VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

@@ -1,0 +1,79 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Create_ResX_File"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:UI="using:Microsoft.Advertising.WinRT.UI"
+    x:Class="Create_ResX_File.MainPage"
+    mc:Ignorable="d">
+
+    <Grid Background="Black">
+        <Viewbox>
+            
+            <StackPanel Orientation="Horizontal">
+                
+                <StackPanel >
+                    
+                    <StackPanel Orientation="Horizontal" Margin="12,12,12,0">
+                        <TextBlock Text=".resx translation helper" FontSize="40" FontWeight="Bold" Width="1090" />
+                        <Image Source="Assets/Logo.Dark.jpg" HorizontalAlignment="Right" Height="36" VerticalAlignment="Top"/>
+                    </StackPanel>
+
+                    <StackPanel Orientation="Horizontal">
+                        <!--Quelldatei-->
+                        <StackPanel Orientation="Vertical" Margin="12">
+                            <TextBlock Text="Insert text from .resx file to translate" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="SourceInput" Foreground="Black" FontSize="12" Height="200" Width="600" TextWrapping="Wrap"/>
+                        </StackPanel>
+                        <!--Einstellungen-->
+                        <StackPanel Orientation="Vertical" Margin="12" VerticalAlignment="Bottom">
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,104">
+                                <Button Content="Manual" HorizontalAlignment="Right" Click="Click_ButtonManual" />
+                                <Button Content="Instructions video" HorizontalAlignment="Right" Click="Click_Video" />
+                            </StackPanel>
+                            <TextBlock Text="Separator" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="SetSeparator" Foreground="Red" FontSize="12" Height="30" Width="600" Text="X" />                   
+                        </StackPanel>
+                    </StackPanel>
+
+                    <Button Content="Click to create text to translate" Click="Click_CreateTextToTranslate" Margin="12,0,12,0" HorizontalAlignment="Right"/>
+
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Orientation="Vertical" Margin="12">
+                            <TextBlock Text="Translate this text with Google or Bing" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="TextToTranslate" Foreground="Red" FontSize="12" Height="200" Width="600" TextWrapping="Wrap"/>
+                            <Button x:Name="ToTranslateCopy" Content="CODE" HorizontalAlignment="Right" Margin="0,-40,0,0" Foreground="Black" BorderBrush="Black" Click="ToTranslateCopy_Click"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Vertical" Margin="12">
+                            <TextBlock Text="Insert translated text" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="TranslatedText" Foreground="Black" FontSize="12" Height="200" Width="600" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                    
+                    <Button Content="Click to create translated text" Click="Click_CreateTranslatedText" Margin="12,0,12,0" HorizontalAlignment="Right"/>
+                    
+                    <StackPanel Orientation="Horizontal">
+                        <StackPanel Margin="12">
+                            <TextBlock Text="Translated .resx text" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="TargetText" Foreground="#FF327024" FontSize="12" Height="200" Width="600" TextWrapping="Wrap" />
+                            <Button x:Name="TranslatedCopy" Content="CODE" HorizontalAlignment="Right" Margin="0,-40,0,0" Foreground="Black" BorderBrush="Black" Click="TranslatedCopy_Click"/>
+                        </StackPanel>
+                        <StackPanel Margin="12">
+                            <TextBlock Text="Errors" FontSize="20" FontWeight="Bold" />
+                            <TextBox x:Name="ErrorText" Foreground="#FF510D0D" FontSize="12" Height="200" Width="600" Background="#FFF3B0B0" IsReadOnly="True" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </StackPanel>
+                </StackPanel>
+
+                <UI:AdControl Name="AD" ApplicationId="92e6c4eb-6d9d-4673-9abc-02d5f0d6ecaf" AdUnitId="179836" HorizontalAlignment="Left" Height="600" VerticalAlignment="Center" Width="160" Margin="12"/>
+
+            </StackPanel>
+            
+            
+        </Viewbox>
+
+ 
+
+    </Grid>
+</Page>

@@ -1,0 +1,82 @@
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.g.i.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.g.i.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.xaml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.xaml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\App.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MainPage.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.xr.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.exe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.pdb
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\resources.pri
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\AppxManifest.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.build.appxrecipe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\Create ResX File.Windows.exe
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\Create ResX File.Windows.pdb
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\priconfig.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\layout.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\resources.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\pri.resfiles
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\qualifiers.txt
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\ProjectArchitectures.txt
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\PrivacyPolice.xbf
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.g.i.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.g.cs
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.xaml
+D:\Eigene Dateien\Projekte\Windows\Create ResX File\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\App.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\PrivacyPolice.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.xr.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.exe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.pdb
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\resources.pri
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\AppxManifest.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.build.appxrecipe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.winmd
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Microsoft.Advertising.WinRT.UI.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MicrosoftAdvertising.winmd
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MicrosoftAdvertising.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.g.i.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.g.i.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.g.i.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\XamlTypeInfo.g.cs
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.xaml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.xaml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.xaml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\App.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MainPage.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\PrivacyPolice.xbf
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\XamlSaveStateFile.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\Create ResX File.Windows.exe
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\Create ResX File.Windows.pdb
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\priconfig.xml
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\priconfig.xml.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\layout.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\layout.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\resources.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\resources.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\pri.resfiles
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\pri.resfiles.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\qualifiers.txt
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\qualifiers.txt.intermediate
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\ProjectArchitectures.txt

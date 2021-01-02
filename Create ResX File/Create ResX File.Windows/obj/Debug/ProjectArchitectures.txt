@@ -1,0 +1,1 @@
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Create ResX File.Windows.csproj;neutral

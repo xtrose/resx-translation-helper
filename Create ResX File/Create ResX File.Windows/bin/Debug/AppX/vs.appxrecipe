@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XTROSE-DESKTOP</Machine>
+    <WindowsUser>xtros</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>6490xtrose.resxtranslationhelper</PackageIdentityName>
+    <IntermediateOutputPath>D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>6FF362B44A9D24F7C697469C3F7CE119C1483EBD20E97E1030046DE0299A27BA</RegisteredManifestChecksum>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-21T21:51:04.078</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.exe">
+      <PackagePath>Create ResX File.Windows.exe</PackagePath>
+      <Modified>2015-07-21T21:51:01.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI.winmd">
+      <PackagePath>Microsoft.Advertising.WinRT.UI.winmd</PackagePath>
+      <Modified>2013-09-13T09:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\References\CommonConfiguration\neutral\MicrosoftAdvertising.winmd">
+      <PackagePath>MicrosoftAdvertising.winmd</PackagePath>
+      <Modified>2013-09-13T09:42:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\AdSettingsFlyout.xbf</PackagePath>
+      <Modified>2013-09-13T09:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\Themes\Generic.xbf</PackagePath>
+      <Modified>2013-09-13T09:42:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\bootstrap.html">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\bootstrap.html</PackagePath>
+      <Modified>2013-09-13T09:43:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSAdvertisingXaml\8.1\Redist\CommonConfiguration\neutral\Microsoft.Advertising.WinRT.UI\ormma.js">
+      <PackagePath>Microsoft.Advertising.WinRT.UI\ormma.js</PackagePath>
+      <Modified>2013-09-13T09:46:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Assets\Logo.Dark.jpg">
+      <PackagePath>Assets\Logo.Dark.jpg</PackagePath>
+      <Modified>2014-06-15T21:43:43.439</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T22:03:53.906</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T22:05:56.489</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T22:00:01.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-16T22:04:34.031</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-21T21:49:06.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-21T21:49:06.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\PrivacyPolice.xbf">
+      <PackagePath>PrivacyPolice.xbf</PackagePath>
+      <Modified>2015-07-21T21:49:06.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\Create ResX File.Windows.xr.xml">
+      <PackagePath>Create ResX File.Windows.xr.xml</PackagePath>
+      <Modified>2014-06-19T17:56:33.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-21T21:51:01.316</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

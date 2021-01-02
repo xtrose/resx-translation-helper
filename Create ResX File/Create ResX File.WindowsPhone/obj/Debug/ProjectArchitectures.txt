@@ -1,0 +1,1 @@
+D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Create ResX File.WindowsPhone.csproj;neutral

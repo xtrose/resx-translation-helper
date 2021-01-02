@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>XTROSE-DESKTOP</Machine>
+    <WindowsUser>xtros</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>93caf311-51b9-4b94-bf5c-4474b8059b0c</PackageIdentityName>
+    <IntermediateOutputPath>D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.exe">
+      <PackagePath>Create ResX File.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\Logo.Dark.jpg">
+      <PackagePath>Assets\Logo.Dark.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\Create ResX File.WindowsPhone.xr.xml">
+      <PackagePath>Create ResX File.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Moses\Projekte\Windows\resx translation helper\Create ResX File\Create ResX File\Create ResX File.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
